@@ -1,6 +1,6 @@
 # Paya Exchange Virtual Desktop - XML Message Formats and Field Definitions
 
-1. [XMLSchema](Paya-Exchange-Virtual-Desktop/XML%20Message%20Formats%20and%20Field%20Definitions.md#xmlschema)
+1. [XMLSchema](/XML%20Message%20Formats%20and%20Field%20Definitions.md#xmlschema)
     - [XML Reserved Characters](XML%20Message%20Formats%20and%20Field%20Definitions.md#xml-reserved-characters)
 2. [Message Formats](XML%20Message%20Formats%20and%20Field%20Definitions.md#message-formats)
     - [Introduction](XML%20Message%20Formats%20and%20Field%20Definitions.md#introduction)
