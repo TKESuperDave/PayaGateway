@@ -4,7 +4,7 @@
     - [XML Reserved Characters](XML%20Message%20Formats%20and%20Field%20Definitions.md#xml-reserved-characters)
 2. [Message Formats](XML%20Message%20Formats%20and%20Field%20Definitions.md#message-formats)
     - [Introduction](XML%20Message%20Formats%20and%20Field%20Definitions.md#introduction)
-    - [Sale](/XML%20Message%20Formats%20and%20Field%20Definitions.md#sale)
+    - [Sale](XML%20Message%20Formats%20and%20Field%20Definitions.md#sale)
       - [XML Sale Request with User Interface Sample](XML%20Message%20Formats%20and%20Field%20Definitions.md#xml-sale-request-with-user-interface-sample)
       - [XML Sale Request without User Interface Sample](XML%20Message%20Formats%20and%20Field%20Definitions.md#xml-sale-requestion-without-user-interface-sample)
       - [XML Sale Request and Vault Storage with User Interface Sample](XML%20Message%20Formats%20and%20Field%20Definitions.md#xml-sale-request-and-vault-storage-with-user-interface-sample)
