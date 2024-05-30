@@ -36,7 +36,7 @@
       - [XML Vault Operation Request for Creating a Storage Record](XML%20Message%20Formats%20and%20Field%20Definitions.md#xml-vault-operation-request-for-creating-a-storage-record)
       - [XML Vault Operation Request for Updating a Storage Record](XML%20Message%20Formats%20and%20Field%20Definitions.md#xml-vault-operation-request-for-updating-a-storage-record)
       - [XML Vault Operation Request for Deleting a Storage Record](XML%20Message%20Formats%20and%20Field%20Definitions.md#xml-vault-operation-request-for-deleting-a-storage-record)
-      - [XML Vault Operation Request for Viewting a Storage Record](XML%20Message%20Formats%20and%20Field%20Definitions.md#xml-vault-operation-request-for-viewing-a-storage-record)
+      - [XML Vault Operation Request for Viewing a Storage Record](XML%20Message%20Formats%20and%20Field%20Definitions.md#xml-vault-operation-request-for-viewing-a-storage-record)
       - [XML Vault Operation Request for Updating a Storage Record hiding the Account Number in the UI](XML%20Message%20Formats%20and%20Field%20Definitions.md#xml-vault-operation-request-for-updating-a-storage-record-hiding-the-account-number-in-the-ui)
       - [XML Vault Operation Request for Creating a Storage Record masking the Account Number in the UI](XML%20Message%20Formats%20and%20Field%20Definitions.md#xml-vault-operation-request-for-updating-a-storage-record-masking-the-account-number-in-the-ui)
     - [Vault Account](XML%20Message%20Formats%20and%20Field%20Definitions.md#vault-account)
